@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "598484387114",
+    "firebase_url": "https://mental-health-care-3b58b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mental-health-care-3b58b",
+    "storage_bucket": "mental-health-care-3b58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598484387114:android:37c2b198ba120d7a3b4a53",
+        "android_client_info": {
+          "package_name": "com.sunny.mentalhealthtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598484387114-ruf0s82nsisn0t2mj3md00rb03q11s7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlaH0T1xwJBG2m6EKMYdBPJr8K7jI0txY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598484387114-ruf0s82nsisn0t2mj3md00rb03q11s7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598484387114:android:28f62fc677ce9ee23b4a53",
+        "android_client_info": {
+          "package_name": "com.sunny.serverjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598484387114-ruf0s82nsisn0t2mj3md00rb03q11s7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlaH0T1xwJBG2m6EKMYdBPJr8K7jI0txY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598484387114-ruf0s82nsisn0t2mj3md00rb03q11s7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
